@@ -1,0 +1,8 @@
+.del:hover{
+    cursor: pointer;
+}
+.del{
+    position: absolute;
+    margin-top: 32px;
+    margin-left: 500px;
+}
